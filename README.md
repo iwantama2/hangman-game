@@ -6,3 +6,5 @@ A game that asks us to guess the correct word or people will be hanged as a cons
 # Screenshoot
 ![screenshoot-hangman-game](https://github.com/iwantama2/hangman-game/assets/46395434/37ac4ef6-ce1d-4f72-a523-aa002ed2c981)
 
+# Play
+![istockphoto-1440133517-170667a-removebg-preview](https://github.com/iwantama2/hangman-game/assets/46395434/0c163a62-5a14-40ef-985a-03e858578da2)
